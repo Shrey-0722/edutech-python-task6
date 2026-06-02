@@ -1,0 +1,2 @@
+2026-06-02 18:58:20 | ERROR | ZeroDivisionError: User attempted division by zero.
+2026-06-02 18:58:27 | ERROR | ValueError: User entered a non-integer value.
